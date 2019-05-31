@@ -28,7 +28,7 @@ figcaption {
   font-family: "Clicker Script", cursive; 
 }
 
-#details a:link {
+#details a:link, #details {
   color: black;
   text-decoration: none;
 }
