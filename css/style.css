@@ -39,3 +39,5 @@ figcaption {
 }
 
 #details a:active {
+  color: red;
+}
