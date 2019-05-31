@@ -28,4 +28,6 @@ figcaption {
   font-family: "Clicker Script", cursive; 
 }
 
-#details
+#details a:link {
+  
+}
